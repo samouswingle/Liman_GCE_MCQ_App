@@ -30,6 +30,8 @@ body{
 }
 
 
+
+
 .info_box.activeInfo,
 .quiz_box.activeQuiz,
 .result_box.activeResult,
@@ -465,6 +467,39 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
+
+/*----- Footer ---- */
+.footer{
+    position: fixed;  
+    left: 10px;  
+    bottom: 5px;  
+    right: 10px;   
+    width: 95%;  
+    background: #fff;
+    color: rgb(6, 6, 6);  
+    text-align: center;  
+    padding: 5px 10px;
+    outline: none;
+    border: none;
+    border-radius: 55px;
+    font-size: 15px;
+}
+
+.footer h4{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+.icons .fa{
+    color: #1feb29;
+    margin: 5px;
+    cursor: pointer;
+    padding: 3px;
+}
+.fa-heart-o{
+    color: #ff4433;
+}
+
 
 
 @media(max-width: 600px){
