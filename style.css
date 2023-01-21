@@ -484,6 +484,9 @@ footer button.show{
     border-radius: 55px;
     font-size: 15px;
 }
+#liman{
+    font-weight: 1000;
+}
 
 .footer h4{
     margin-bottom: 10px;
