@@ -559,7 +559,7 @@ let questions = [
     end users must evaluate to see that it meets \
     their needs and functions correctly. This type of \
     testing is",
-    answer: "Correct answer of the question is here",
+    answer: "Acceptance testing",
     options: [
       "Unit testing",
       "Program testing",

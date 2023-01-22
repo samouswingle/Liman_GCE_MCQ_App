@@ -514,6 +514,7 @@ footer button.show{
         width: 100%;
     }
     .quiz_box{
+        margin-top: 10px;
         width: 100%;
     }
     .choice_box{
